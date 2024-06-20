@@ -1,7 +1,4 @@
 # -Restaurant_Data_Analysis_and_Prediction__Cognifyz-Technologies
-I have successfully completed my Project – Restaurant Data Analysis at Cognifyz Technologies
-
-Project – Restaurant Data Analysis
 
 Project Description: Analyzing restaurant data to gain insights into factors influencing aggregate ratings.
 
